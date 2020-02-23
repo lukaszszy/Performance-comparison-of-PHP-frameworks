@@ -38,16 +38,22 @@ Codeception tests running:
 ## Results
 
 ##### Test case 1: Time of returning 'Hello World' message
+![Hello World GET test](https://github.com/lukaszszy/Performance-comparison-of-PHP-frameworks/blob/master/test-codeception/tests/results/HW.jpg?raw=true)
 
 ##### Test case 2: Time of returning list of all notes
+![GET test](https://github.com/lukaszszy/Performance-comparison-of-PHP-frameworks/blob/master/test-codeception/tests/results/GET.jpg?raw=true)
 
 ##### Test case 3: Time of returning single note
+![GET one test](https://github.com/lukaszszy/Performance-comparison-of-PHP-frameworks/blob/master/test-codeception/tests/results/GET1.jpg?raw=true)
 
 ##### Test case 4: Time of creating new note
+![POST test](https://github.com/lukaszszy/Performance-comparison-of-PHP-frameworks/blob/master/test-codeception/tests/results/POST.jpg?raw=true)
 
 ##### Test case 5: Time of updating existing note
+![PUT test](https://github.com/lukaszszy/Performance-comparison-of-PHP-frameworks/blob/master/test-codeception/tests/results/PUT.jpg?raw=true)
 
 ##### Test case 6: Time of deleting note
+![DELETE test](https://github.com/lukaszszy/Performance-comparison-of-PHP-frameworks/blob/master/test-codeception/tests/results/DELETE.jpg?raw=true)
 
 ## Source
 These results come from *''The impact of using programming microframeworks on the performance of created REST API services''* publication.
